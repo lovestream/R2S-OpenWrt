@@ -1,20 +1,20 @@
-## R2S 基于原生OpenWRT 的固件
+## Firmware of NanoPi R2S Based on Original OpenWRT
 
-### Released in action
+### Released in Actions
 
 ### Noticed：
 Login IP：192.168.1.1 
 
 Password：None
 
-### 版本信息：
-其他模块版本：SNAPSHOT（当日最新）
+### Version Informations:
+Other modules：SNAPSHOT（The day of the latest action）
 
-LUCI版本：19.07（当日最新）
+LUCI version：19.07（The day of the latest action）
 
 ### Feature：
-1.O3编译
+1.O3
 
 2.SSRP ONLY
 
-# Thank to all friends in R2S club
+## Thanks to all friends in NanoPi R2S club
