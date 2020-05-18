@@ -1,9 +1,11 @@
 name: R2S-OpenWrt
 
 on:
-#  push:
-#    branches: 
-#      - master
+  push:
+    branches: 
+      - master
+    paths:
+      - '.github/SEED/config.seed'
   watch:
     types: [started]
 
