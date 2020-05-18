@@ -5,7 +5,7 @@ on:
     branches: 
       - master
     paths:
-      - '.github/SEED/config.seed'
+      - 'SEED/config.seed'
   watch:
     types: [started]
 
